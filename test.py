@@ -98,7 +98,6 @@ log_progress("Transformed phase ended")
 
 # log the beginning of the Loading process
 log_progress("Load phase started")
-load_data(target_file, transformed_data)
 
 # log the completion of the Loading process
 log_progress("Load phases ended")
